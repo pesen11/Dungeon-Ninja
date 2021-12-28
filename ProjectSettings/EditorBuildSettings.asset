@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 15eed9ea8c4a809408627e56958d9650
+  - enabled: 1
+    path: Assets/Scenes/Level_Selection.unity
+    guid: b8363d1a2ba4f1a45aa5e9cd748a58d5
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 528592dcca3da5249b1143b83a44aa23
+  - enabled: 1
+    path: Assets/Scenes/lv1.unity
+    guid: 9cd7f1901a271284796873b08facf8ba
+  - enabled: 1
+    path: Assets/Scenes/lv2.unity
+    guid: 6da5793677e0b6d4da1196c2f7d87627
+  - enabled: 1
+    path: Assets/Scenes/lv3.unity
+    guid: 188d14aa667e69b478cb16eb5e04fb43
+  - enabled: 1
+    path: Assets/Scenes/lvl4.unity
+    guid: 165ae9d33049bba40868ccf7885a98ea
+  - enabled: 1
+    path: Assets/Scenes/lvl5.unity
+    guid: e13fe2f2642a0194ca87c7a02b33706c
+  - enabled: 1
+    path: Assets/Scenes/bossLevel.unity
+    guid: 611d9db4ced29984fac3f5da67577017
+  - enabled: 1
+    path: Assets/Scenes/You_win.unity
+    guid: 34e09a1e01ec10448bde2c5622052bf2
+  - enabled: 1
+    path: Assets/Scenes/You_lose.unity
+    guid: 50b1c757544b3624f9e0d928f95a7b24
+  m_configObjects: {}
